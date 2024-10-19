@@ -1,7 +1,7 @@
 # AAiT-Space
-A go-to place for AAiT studens that contains from course curriculum resources to leture materials for all departments.
+A go-to place for AAiT studens that embeds files from course curriculum resources to leture materials for all departments.
 
-## Welcome All Learners of -[AAiT]-
+## Welcome All Learners of [AAiT](https://aait.edu.et)
 ### What is *AAiT Space?*
 
 This is a place for students particularly of Addis Ababa Institute of Technology to find lecture notes, course materials and everything that we wish we had access to
