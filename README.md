@@ -1,5 +1,6 @@
 # AAiT-Space
 A go-to place for AAiT studens that embeds files from short notes to lecture materials for all departments.
+Content especially made for AAiT, still there are links for students outside.
 
 ## Welcome All Learners of [AAiT](https://aait.edu.et)
 ### What is **AAiT Space?**
