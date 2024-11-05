@@ -12,7 +12,7 @@
           Owned and maintained by: Bewket Alem
 *Contact [Bewket Alem](https://t.me/bewale) here.*
 
-## Senior Batches
+## Senior Batches (Graduated)
   - ### [AAiT Mechanical 2011](https://t.me/MechSectionOne)
            Type: Public Group
            Admin: Meron
