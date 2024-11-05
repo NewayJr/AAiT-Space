@@ -1,5 +1,5 @@
 # AAiT Space ◯
-> A go-to place for AAiT studens that embeds files from short notes to lecture materials for all departments.
+> A go-to place for AAiT students struggling to find materials like short notes to robust lecture video links all in one place.
 > Content especially made for AAiT, still there are links for students outside.
 
 ## Welcome aboard learners of [AAiT](https://aait.edu.et)
