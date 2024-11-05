@@ -10,19 +10,19 @@
   - ###    [Mechanical Engineering Files](https://t.me/mechanicalengineeringfiles)
           Type: Public Channel
           Owned and maintained by: Bewket Alem
- * Contact [Bewket Alem](https://t.me/bewale) here.*
+*Contact [Bewket Alem](https://t.me/bewale) here.*
 
 ## Senior Batches
   - ### (AAiT Mechanical 2021](https://t.me/MechSectionOne)
            Type: Public Group
            Admin: Meron
            Status: Inactive
-   * Contact [Meron](https://t.me/Meroooon) for admission.*
+*Contact [Meron](https://t.me/Meroooon) for admission.*
   - ### SMiE Mechanical and Industrial Engineering 2012
            Type: Private Group
            Admins: Tihitna, Aklilu
            Status: Inactive
-   * Contact [Tihitna Tsegaw](https://t.me/Ti076) or [Aklilu](https://t.me/Ak01robot) for admission.*
+*Contact [Tihitna Tsegaw](https://t.me/Ti076) or [Aklilu](https://t.me/Ak01robot) for admission.*
 ## Fifth Year (2013 Batch)
   - ###    Mechanical Engineering Section 1
           Private Group
