@@ -2,7 +2,7 @@
 > Telegram Channels And Groups For Mechanical And Industrial Engineering Students at AAiT.
 > Some groups are private and might need the owner's approval to join. Contact them using the given addresses.
 
-## 📰The School Notice Board: [SMiE UG Program](https://t.me/joinSMiE) 
+## 📰 The SMiE Notice Board: [SMiE UG Program](https://t.me/joinSMiE) 
 
 ## All Years
   - ###    [Mechanical Engineering Files](https://t.me/mechanicalengineeringfiles)
