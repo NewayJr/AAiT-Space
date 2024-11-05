@@ -10,7 +10,7 @@
   - ###    [Mechanical Engineering Files](https://t.me/mechanicalengineeringfiles)
           Public Channel
           Owned and maintained by: Bewket Alem
-   >    *Contact [Bewket Alem](https://t.me/bewale) here.*
+     *Contact [Bewket Alem](https://t.me/bewale) here.*
 
     
 ## Fifth Year (2013 Batch)
