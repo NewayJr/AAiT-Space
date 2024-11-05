@@ -1,6 +1,6 @@
 # AAiT-Space
-A go-to place for AAiT studens that embeds files from short notes to lecture materials for all departments.
-Content especially made for AAiT, still there are links for students outside.
+> A go-to place for AAiT studens that embeds files from short notes to lecture materials for all departments.
+> Content especially made for AAiT, still there are links for students outside.
 
 ## Welcome All Learners of [AAiT](https://aait.edu.et)
 ### What is **AAiT Space?**
@@ -12,3 +12,8 @@ This was a project suggested by our mentor, Eyob, when we were interns in Minste
 each and every course material on every subject of every department in AAiT. Everything from hand written notes from mates to exclusive lecture videos links will
 be shared here.
 
+## What you can find:
+- Resource Materials
+- Telegram Groups and Channels
+- Resourceful Websites
+- Contact Information of The Staff
