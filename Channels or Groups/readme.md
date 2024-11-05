@@ -12,7 +12,14 @@
           Owned and maintained by: Bewket Alem
      *Contact [Bewket Alem](https://t.me/bewale) here.*
 
-    
+## Senior Batches
+  - ### (AAiT Mechanical 2021](https://t.me/MechSectionOne)
+           Public Group
+           Deprecated
+  - ### SMiE Mechanical and Industrial Engineering 2012
+           Private Group
+           ~~~Maintained by: Tihitna~~~ Deprecated
+    * Contact Tihitna Tsegaw](https://t.me/Ti076) or [Aklilu](https://t.me/Ak01robot) for admission.*
 ## Fifth Year (2013 Batch)
   - ###    Mechanical Engineering Section 1
           Private Group
