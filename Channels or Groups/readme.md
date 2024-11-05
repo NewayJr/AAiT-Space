@@ -8,12 +8,12 @@
 ###    [Mechanical Engineering Files](https://t.me/mechanicalengineeringfiles)
           Owned and maintained by: Bewket Alem
 ## Fifth Year (2013 Batch)
-- ###    Mechanical Engineering Section 1
+  - ###    Mechanical Engineering Section 1
           Private Group
-          Contact [Abubeker Abdulhakim](https://t.me/abuabulkhase) for admission
-- ###    [Mechanical Engineering Section 2-Channel](https://t.me/mech_sec_2_info_center)
+    Contact [Abubeker Abdulhakim](https://t.me/abuabulkhase) for admission
+  - ###    [Mechanical Engineering Section 2-Channel](https://t.me/mech_sec_2_info_center)
           Maintained by: [Eyoel](https://t.me/birhanetinsae20)
-- ###    [Mechanical Engineering Section 2-Group]
+  - ###    [Mechanical Engineering Section 2-Group]
           Private Group
           Maintained by: [Eyoel](https://t.me/birhanetinsae20)
-          Contact Eyoel for admission
+    Contact Eyoel for admission
