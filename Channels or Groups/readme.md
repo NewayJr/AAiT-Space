@@ -11,5 +11,7 @@
 ###    Mechanical Engineering Section 1
           Private Group
           Contact @abubeker for admission
-###    [Mechanical Engineering Section 2](https://t.me/mech_sec_2_info_center)
+###    [Mechanical Engineering Section 2-Channel](https://t.me/mech_sec_2_info_center)
+          Maintained by: [Eyoel](https://t.me/birhanetinsae20)
+###    [Mechanical Engineering Section 2-Group](https://t.me/mech_sec_2_info_center)
           Maintained by: [Eyoel](https://t.me/birhanetinsae20)
