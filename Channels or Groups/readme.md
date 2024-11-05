@@ -13,7 +13,7 @@
 *Contact [Bewket Alem](https://t.me/bewale) here.*
 
 ## Senior Batches
-  - ### [AAiT Mechanical 2021](https://t.me/MechSectionOne)
+  - ### [AAiT Mechanical 2011](https://t.me/MechSectionOne)
            Type: Public Group
            Admin: Meron
            Status: Inactive
