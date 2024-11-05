@@ -17,9 +17,10 @@
            Public Group
            Deprecated
   - ### SMiE Mechanical and Industrial Engineering 2012
-           Private Group
-           ~~~Maintained by: Tihitna~~~ Deprecated
-    * Contact Tihitna Tsegaw](https://t.me/Ti076) or [Aklilu](https://t.me/Ak01robot) for admission.*
+           Private Grou
+           Admins: Tihitna, Aklilu
+           Deprecated
+   * Contact [Tihitna Tsegaw](https://t.me/Ti076) or [Aklilu](https://t.me/Ak01robot) for admission.*
 ## Fifth Year (2013 Batch)
   - ###    Mechanical Engineering Section 1
           Private Group
