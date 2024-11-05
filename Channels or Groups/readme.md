@@ -1,5 +1,5 @@
 # Telegram Handles
-> Telegram Channels And Groups For Mechanical And Industrial Engineering Students at AAiT.
+> This section contains Telegram channels and groups for Mechanical and Industrial Engineering Students at AAiT.
 > Some groups are private and might need the owner's approval to join. Contact them using the given addresses.
 
 
