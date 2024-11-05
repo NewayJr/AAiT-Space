@@ -6,8 +6,7 @@
 
 ## Groups For All Years
 ###    [Mechanical Engineering Files](https://t.me/mechanicalengineeringfiles)
-          Mentained by: Bewket Alem
-          Contact: @BewketAlem
+          Owned and maintained by: Bewket Alem
 ## Fifth Year (2013 Batch)
 ###    Mechanical Engineering Section 1
           Private Group
