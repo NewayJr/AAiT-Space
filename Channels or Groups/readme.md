@@ -7,13 +7,13 @@
 ## 📰 The SMiE Notice Board: [SMiE UG Program](https://t.me/joinSMiE) 
 
 ## All Years
-  - ###    [Mechanical Engineering Files](https://t.me/mechanicalengineeringfiles)
+  - ### [Mechanical Engineering Files](https://t.me/mechanicalengineeringfiles)
           Type: Public Channel
           Owned and maintained by: Bewket Alem
 *Contact [Bewket Alem](https://t.me/bewale) here.*
 
 ## Senior Batches
-  - ### (AAiT Mechanical 2021](https://t.me/MechSectionOne)
+  - ### [AAiT Mechanical 2021](https://t.me/MechSectionOne)
            Type: Public Group
            Admin: Meron
            Status: Inactive
