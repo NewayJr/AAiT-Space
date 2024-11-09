@@ -26,7 +26,7 @@
 ## Fifth Year (2013 Batch)
   - ###    Mechanical Engineering Section 1
           Private Group
-    *Contact [Abubeker Abdulhakim](https://t.me/abuabulkhase) for admission*
+    *Contact [Abubeker Abdulhakim](https://t.me/abuabulkhase) to join*
   - ###    [Mechanical Engineering Section 2-Channel](https://t.me/mech_sec_2_info_center)
           Public Channel
           Maintained by: Eyoel Ahadu
@@ -34,7 +34,7 @@
   - ###    Mechanical Engineering Section 2-Group
           Private Group
           Maintained by: Eyoel Ahadu
-    *Contact [Eyoel Ahadu](https://t.me/birhanetinsae20) for admission.*
+    *Contact [Eyoel Ahadu](https://t.me/birhanetinsae20) to join.*
 
 ## Fourth Year (2012 Batch)
 - ### Mech Fourth
